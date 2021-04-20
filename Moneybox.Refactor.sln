@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mpneybox.App.Model", "Mpney
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moneybox.App.Common", "Moneybox.App.Common\Moneybox.App.Common.csproj", "{F5BB7C47-B4A5-4847-A02D-6B3EE80C5B0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moneybox.App.UnitTest.Test", "Moneybox.App.UnitTest.Test\Moneybox.App.UnitTest.Test.csproj", "{4E823257-EB1F-4E1C-8F34-FE901453D445}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F5BB7C47-B4A5-4847-A02D-6B3EE80C5B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5BB7C47-B4A5-4847-A02D-6B3EE80C5B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5BB7C47-B4A5-4847-A02D-6B3EE80C5B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E823257-EB1F-4E1C-8F34-FE901453D445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E823257-EB1F-4E1C-8F34-FE901453D445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E823257-EB1F-4E1C-8F34-FE901453D445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E823257-EB1F-4E1C-8F34-FE901453D445}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
