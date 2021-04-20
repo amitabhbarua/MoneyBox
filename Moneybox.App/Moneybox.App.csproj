@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Moneybox.App.Common\Moneybox.App.Common.csproj" />
     <ProjectReference Include="..\Moneybox.App.DataAccess\Moneybox.App.DataAccess.csproj" />
     <ProjectReference Include="..\Moneybox.App.Service\Moneybox.App.Service.csproj" />
   </ItemGroup>
