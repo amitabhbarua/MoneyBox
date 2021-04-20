@@ -1,5 +1,5 @@
 ﻿using Moneybox.App.DataAccess;
-using Moneybox.App.Domain.Services;
+using Moneybox.App.Services;
 using System;
 
 namespace Moneybox.App.Features

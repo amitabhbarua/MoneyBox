@@ -1,9 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27604.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Moneybox.App", "Moneybox.App\Moneybox.App.csproj", "{C1E5082E-45D6-469C-BD08-B87348851443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moneybox.App.DataAccess", "Moneybox.App.DataAccess\Moneybox.App.DataAccess.csproj", "{86EB6457-8792-43DB-B511-5DAC04499CE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moneybox.App.Service", "Moneybox.App.Service\Moneybox.App.Service.csproj", "{B3E1B57A-B568-4528-A83B-99707D3F088C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mpneybox.App.Model", "Mpneybox.App.Model\Mpneybox.App.Model.csproj", "{51D530DA-F822-4F8C-86E9-DE937457B86B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moneybox.App.Common", "Moneybox.App.Common\Moneybox.App.Common.csproj", "{F5BB7C47-B4A5-4847-A02D-6B3EE80C5B0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{C1E5082E-45D6-469C-BD08-B87348851443}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1E5082E-45D6-469C-BD08-B87348851443}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1E5082E-45D6-469C-BD08-B87348851443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86EB6457-8792-43DB-B511-5DAC04499CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EB6457-8792-43DB-B511-5DAC04499CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EB6457-8792-43DB-B511-5DAC04499CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EB6457-8792-43DB-B511-5DAC04499CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E1B57A-B568-4528-A83B-99707D3F088C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E1B57A-B568-4528-A83B-99707D3F088C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E1B57A-B568-4528-A83B-99707D3F088C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E1B57A-B568-4528-A83B-99707D3F088C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51D530DA-F822-4F8C-86E9-DE937457B86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D530DA-F822-4F8C-86E9-DE937457B86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D530DA-F822-4F8C-86E9-DE937457B86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D530DA-F822-4F8C-86E9-DE937457B86B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5BB7C47-B4A5-4847-A02D-6B3EE80C5B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BB7C47-B4A5-4847-A02D-6B3EE80C5B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BB7C47-B4A5-4847-A02D-6B3EE80C5B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BB7C47-B4A5-4847-A02D-6B3EE80C5B0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
